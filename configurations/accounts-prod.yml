@@ -1,0 +1,19 @@
+#spring:
+#  config:
+#    activate:
+#      on-profiles: "prod"
+
+
+
+
+build:
+  version: "3.0"
+
+accounts:
+  name: "This is accounts microservice for prod"
+  contactDetails:
+    name: "Kratik Harchandani-prod"
+    mobileNumber: "1234567890"
+  onCallSupport:
+    - (+91)-1234567891
+    - (+91)-1234567892

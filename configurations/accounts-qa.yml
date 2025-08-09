@@ -1,0 +1,19 @@
+#spring:
+#  config:
+#    activate:
+#      on-profiles: "qa"
+
+
+
+
+build:
+  version: "2.0"
+
+accounts:
+  name: "This is accounts microservice for QA"
+  contactDetails:
+    name: "Kratik Harchandani-QA"
+    mobileNumber: "1234567890"
+  onCallSupport:
+    - (+91)-1234567891
+    - (+91)-1234567892

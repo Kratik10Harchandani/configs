@@ -1,0 +1,12 @@
+
+build:
+  version: "1.0"
+
+accounts:
+  name: "This is accounts microservice"
+  contactDetails:
+    name: "Kratik Harchandani"
+    mobileNumber: "1234567890"
+  onCallSupport:
+    +91-1234567891
+    +91-1234567892
